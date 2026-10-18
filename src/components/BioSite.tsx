@@ -121,7 +121,7 @@ export function BioSite() {
           </a>
         </div>
         <a className="portfolio-art" href={siteConfig.portfolioUrl} target="_blank" rel="noreferrer" aria-label="Abrir portfólio da ELEVVA DIGITAL em nova aba">
-          <div className="portfolio-frame"><span className="frame-kicker">PORTFÓLIO</span><span className="frame-title">ELEVVA<br /><em>CREATIVE</em></span><span className="frame-index">2025 — 2026&nbsp;&nbsp; ↗</span></div>
+          <div className="portfolio-frame"><span className="frame-kicker">PORTFÓLIO</span><span className="frame-title">ELEVVA<br /><em>CREATIVE</em></span><span className="frame-index">ELEVVA DIGITAL&nbsp;&nbsp; ↗</span></div>
           <span className="portfolio-sticker">VER<br />PROJETOS ↗</span>
         </a>
       </section>
